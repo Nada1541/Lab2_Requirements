@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    background-color: white;
+}
+
+input[type="submit"] {
+    background-color: #33b535;
+    color: white;
+}
